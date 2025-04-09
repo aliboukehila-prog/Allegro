@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/MING/MinGW/lib/gcc/mingw32/6.3.0/include",
+						"C:/MING/MinGW/include",
+						"C:/MING/MinGW/lib/gcc/mingw32/6.3.0/include-fixed",
+						"C:/MING/MinGW/mingw32/include",
+						"/MinGW/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/MING/MinGW/lib/gcc/mingw32/6.3.0",
+						"C:/MING/MinGW/lib/gcc",
+						"C:/MING/MinGW/mingw32/lib",
+						"C:/MING/MinGW/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/MING/MinGW/bin/gcc.exe",
+				"version" : "6.3.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/MING/MinGW/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

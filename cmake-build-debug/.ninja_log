@@ -1,0 +1,7 @@
+# ninja log v6
+28	921	7652217231800291	build.ninja	cbefb75e079aaae7
+3	206	7652213986628696	CMakeFiles/Allegro_2.dir/main.c.obj	9a1fce1480238edf
+207	422	7652213988666109	Allegro_2.exe	490470e6a1d2f1b7
+9	469	7652217330817623	CMakeFiles/Allegro_2.dir/main.c.obj	eb3a1b8d21d84c1f
+12	394	7652218554966173	CMakeFiles/Allegro_2.dir/main.c.obj	eb3a1b8d21d84c1f
+395	705	7652218558800037	Allegro_2.exe	ca2fb23e89b09456
