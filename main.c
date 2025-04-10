@@ -14,6 +14,10 @@ BITMAP : Charger une image depuis un fichier .bmp vers une BITMAP
 
 #include <allegro.h>
 #include <time.h>
+
+void something() {
+    printf("hello git");
+}
 void initialisation_allegro();
 // Exo 1
 
